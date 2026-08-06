@@ -179,12 +179,12 @@ The interactive dashboard includes:
 - Region Filters
 
 Example:
-
-images/dashboard.png
-images/country wise sales distribution.png
-images/Sales by category and Market.png
-images/Most Profitable Product across Market.pngg
-images/Top 20 Countries vs Shipping Time.png
+![Dashboard](images/Dashboard.png)
+![Dashboard](images/country_wise_sales_distribution.png)
+![Dashboard](images/Sales_by_category_and_Market.png)
+![Dashboard](images/Most_Profitable_Product_across_Market.png)
+![Dashboard](images/Top_20_Countries_vs_Shipping_Time.png)
+![Dashboard](images/Late_Delivery_By_Shiping_Mode.png)
 images/Late Delivery By Shiping Mode.png
 
 
