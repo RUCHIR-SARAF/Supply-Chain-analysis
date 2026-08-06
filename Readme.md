@@ -227,13 +227,7 @@ images/Dashboard.png
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Supply-Chain-Analytics.git
-```
-
-### Install dependencies
-
-```bash
-pip install -r requirements.txt
+git clone https://https://github.com/Devshadow-ui/Supply-Chain-analysis/.git
 ```
 
 ### Open
@@ -248,9 +242,9 @@ pip install -r requirements.txt
 
 **Ruchir Saraf**
 
-LinkedIn: *(Add your LinkedIn profile)*
+LinkedIn: *(https://www.linkedin.com/in/ruchirsaraf/)*
 
-GitHub: *(Add your GitHub profile)*
+GitHub: *(https://github.com/Devshadow-ui)*
 
 ---
 
