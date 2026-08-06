@@ -185,8 +185,6 @@ Example:
 ![Dashboard](images/Most_Profitable_Product_across_Market.png)
 ![Dashboard](images/Top_20_Countries_vs_Shipping_Time.png)
 ![Dashboard](images/Late_Delivery_By_Shiping_Mode.png)
-images/Late Delivery By Shiping Mode.png
-
 
 
 The dashboard enables users to analyze sales performance dynamically across multiple business dimensions.
