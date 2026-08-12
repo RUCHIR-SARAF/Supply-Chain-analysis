@@ -242,7 +242,7 @@ git clone https://https://github.com/Devshadow-ui/Supply-Chain-analysis/.git
 
 LinkedIn: *(https://www.linkedin.com/in/ruchirsaraf/)*
 
-GitHub: *(https://github.com/Devshadow-ui)*
+GitHub: *(https://github.com/RUCHIR-SARAF)*
 
 ---
 
